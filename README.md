@@ -5,3 +5,8 @@ Nest JS ဟာ Node.js အပေါ်မှာ အခြေခံထားတ�
 Nest JS ဟာ Prograssive Javascript အပေါ်မှာ အခြေခံထားပြီး၊ Type Script ကိုလဲ Full Suport ပေးပါတယ်။ 
 
 တဖန် Object Oriented Programming, Functional Programming, Functional Reactive Programming တို့နဲ့လဲဲ တွဲဖက် ရေးသားနိုင်မှာ ဖြစ်ပါတယ်။
+
+
+## References
+
+1. [Nest JS Official Documentation](https://docs.nestjs.com/)
