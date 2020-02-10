@@ -1,7 +1,9 @@
-# Nest JS
+# Hello Nest JS
 Learning Nest JS 
 
-Nest JS ဟာ Node.js အပေါ်မှာ အခြေခံထားတဲ့ Server Side Framework တစ်ခုဖြစ်ပါတယ်။ 
-Nest JS ဟာ Prograssive Javascript အပေါ်မှာ အခြေခံထားပြီး၊ Type Script ကိုလဲ Full Suport ပေးပါတယ်။ 
+ဒီနေရာမှာတော့ Nest JS Application တစ်ခုကို ဘယ်လို ရေးသားရမယ်ဆိုတာကို လေ့လာသွားကြပါမယ်။ 
 
-တဖန် Object Oriented Programming, Functional Programming, Functional Reactive Programming တို့နဲ့လဲဲ တွဲဖက် ရေးသားနိုင်မှာ ဖြစ်ပါတယ်။
+အသုံးပြုသွားမည့် Tools တွေကတော့ အောက်ပါအတိုင်းဖြစ်ပါတယ်။
+1. npm
+2. yarn
+3. nest-cli 
