@@ -1,2 +1,2 @@
-# learn_nest_js
+# Nest JS
 Learning Nest JS 
