@@ -6,7 +6,7 @@ Nest JS ဟာ Prograssive Javascript အပေါ်မှာ အခြေခ�
 
 တဖန် Object Oriented Programming, Functional Programming, Functional Reactive Programming တို့နဲ့လဲဲ တွဲဖက် ရေးသားနိုင်မှာ ဖြစ်ပါတယ်။
 
-## Hello Nest JS
+## [Hello Nest JS](https://github.com/minlwin/learn_nest_js/tree/master/01.hello-nest-js)
 
 ဒီနေရာမှာတော့ Nest JS ကို ရေးသားဖို့အတွက် လိုအပ်တာတွေကို လေ့လာကြပါမယ်။ အောက်ပါအချက်တွေကို အဓိကတားပြီးလေ့လာသွားကြပါမယ်။
 1. Nest JS Project တစ်ခုကို ဘယ်လိုတည်ဆောက်မလဲ
