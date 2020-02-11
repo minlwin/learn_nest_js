@@ -16,7 +16,7 @@ Learning Nest JS
 
 အထက်ပါ Tools တွေကို Install လုပ်ပြီးတဲ့ နောက်မှာ nest cli Tools ကို အသုံးပြုပြီး Nest JS Project တစ်ခုကို တည်ဆောက်ပုံ ပြီးတော့ ရေးသားထားတဲ့ ပရိုဂျက်ကို Run ကြည့်ပုံတို့ကို အောက်ပါ Youtube Video မှာ လေ့လာနိုင်မှာ ဖြစ်ပါတယ်။
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xwIk3PYJkZg/0.jpg)](https://www.youtube.com/watch?v=xwIk3PYJkZg)
+[![ဘယ်လို စပြီး ပရိုဂျက်ကို တည်ဆောက်မှာလဲ](https://img.youtube.com/vi/xwIk3PYJkZg/0.jpg)](https://www.youtube.com/watch?v=xwIk3PYJkZg)
 
 nest-cli ကို Install လုပ်ပြီးရင် Nest JS Project တစ်ခုကို Command နဲ့ Create လုပ်နိုင်မှာ ဖြစ်ပါတယ်။
 
@@ -24,3 +24,5 @@ nest-cli ကို Install လုပ်ပြီးရင် Nest JS Project တ
 nest new hello-nest
 ```
 
+အထက်ပါအတိုင်း CMD မှာ Execute လုပ်လိုက်ရင် နောက်တစ်ဆင့်မေးလာမှာက Package Manager အနေနဲ့ NPM ကို သုံးမှာလား Yarn ကို သုံးမှာလားပဲ ဖြစ်ပါတယ်။
+[Select Pacakage Manager](https://www.facebook.com/photo.php?fbid=10221483407818779&set=a.2438051954858&type=3&theater)
