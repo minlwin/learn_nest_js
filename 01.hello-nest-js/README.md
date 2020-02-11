@@ -25,4 +25,4 @@ nest new hello-nest
 ```
 
 အထက်ပါအတိုင်း CMD မှာ Execute လုပ်လိုက်ရင် နောက်တစ်ဆင့်မေးလာမှာက Package Manager အနေနဲ့ NPM ကို သုံးမှာလား Yarn ကို သုံးမှာလားပဲ ဖြစ်ပါတယ်။
-![Select Pacakage Manager](https://scontent.fmdl2-1.fna.fbcdn.net/v/t1.0-9/84930485_10221483407898781_4983462579457228800_o.jpg)
+![Select Pacakage Manager](https://scontent.fmdl2-1.fna.fbcdn.net/v/t1.0-9/s960x960/84930485_10221483407898781_4983462579457228800_o.jpg?_nc_cat=109&_nc_eui2=AeE-w0YUFOUtPEtqhSxzuxDeyiC-iFeaWOFBAvqtMMysSOVZ3VFEwV92o2oDofLwqtSfmSAkaTTOG7bIjXR5Q6UqQrabgQvytAAhO8DOD89rWw&_nc_oc=AQkXrPfbbnEKQ_cXe2HcGjjddNUCKOx7phSiYgZ37JeL3DDq4B3DDoEv1gndmxz7NnA&_nc_ht=scontent.fmdl2-1.fna&oh=c68d6ed7ae55bfcdfd38a3e88c3d3c32&oe=5EC87367)
