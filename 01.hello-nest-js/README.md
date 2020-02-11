@@ -18,5 +18,9 @@ Learning Nest JS
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xwIk3PYJkZg/0.jpg)](https://www.youtube.com/watch?v=xwIk3PYJkZg)
 
+nest-cli ကို Install လုပ်ပြီးရင် Nest JS Project တစ်ခုကို Command နဲ့ Create လုပ်နိုင်မှာ ဖြစ်ပါတယ်။
 
+```
+nest new hello-nest
+```
 
