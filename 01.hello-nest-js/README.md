@@ -31,3 +31,5 @@ nest new hello-nest
 ![OK](https://scontent.fmdl2-2.fna.fbcdn.net/v/t1.0-9/84636471_10221483518781553_4353059889774329856_o.jpg?_nc_cat=111&_nc_eui2=AeHZoCXA6FqLdsUDOUuFkybqTf13AhdHeXQRL7p9dUnbxtT5XBWFbmwcG2oIW9gZJNJhHGSqVl5NGnxJv3M9fDjB-oIMqRc8BtawjESWpu9rfw&_nc_oc=AQmoOG46_x6XKy8tUq0rcXikBUWZhsbwd7qv76iZC3frx4eA6X_xTd8feJVHO2EyfBg&_nc_ht=scontent.fmdl2-2.fna&oh=07cf138c227361a6f7a2cf0ea6620372&oe=5EC07A17)
 
 အထက်ပါပုံအတိုင်း Project ကို တည်ဆောက်တာ အောင်မြင်သွားပြီဆိုရင် Nest JS Project လေးတစ်ခုကို တည်ဆောက်လို့ ပြီးသွားပြီဖြစ်ပါတယ်။ သတိထားရမှာက Yarn ကိုသုံးချင်တယ်ဆိုရင် Yarn ကို ကြိုပြီး Install လုပ်ထားဖို့ လိုအပ်ပါတယ်။ Package Manager အနေနဲ့ NPM ကို အသုံးပြုမယ်ဆိုရင်လဲ ပြဿနာရှိမှာ မဟုတ်ပါဘူး။
+
+## Basic Structure of Nest JS Project
