@@ -38,6 +38,9 @@ Nest JS Project ကို Create လုပ်ပြီံးတဲ့ အခါ�
 cd hello-nest
 yarn run start
 ```
+မှန်မှန်ကန်ကန် အလုပ်လုပ်သွားတယ်ဆိုရင် အောက်ပါအတိုင်း Console မှာ ဖေါ်ပြပေးမှာ ဖြစ်ပါတယ်။ ပြီးတော့ http://localhost:3000/ မှာ အလုပ်လုပ်နေတယ်ဆိုတာကို ကြည့်ရှုနိုင်မှာ ဖြစ်ပါတယ်။ 
+
+အသေးစိတ်ကိုတော့ [Youtube Video Tutorial] (https://www.youtube.com/watch?v=xwIk3PYJkZg&t=3s) မှာ လေ့လာနိုင်မှာ ဖြစ်ပါတယ်။
 
 ## Basic Structure of Nest JS Project
 
