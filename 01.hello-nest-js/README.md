@@ -32,4 +32,11 @@ nest new hello-nest
 
 အထက်ပါပုံအတိုင်း Project ကို တည်ဆောက်တာ အောင်မြင်သွားပြီဆိုရင် Nest JS Project လေးတစ်ခုကို တည်ဆောက်လို့ ပြီးသွားပြီဖြစ်ပါတယ်။ သတိထားရမှာက Yarn ကိုသုံးချင်တယ်ဆိုရင် Yarn ကို ကြိုပြီး Install လုပ်ထားဖို့ လိုအပ်ပါတယ်။ Package Manager အနေနဲ့ NPM ကို အသုံးပြုမယ်ဆိုရင်လဲ ပြဿနာရှိမှာ မဟုတ်ပါဘူး။
 
+Nest JS Project ကို Create လုပ်ပြီံးတဲ့ အခါမှာ အထက်ဖေါ်ပြပါအတိုင်း Project Root Folder ထဲကို သွားပြီး ရေးထားတဲ့ Start လုပ်ပေးဖို့ပါပဲ။ အသုံးပြုရမည့် Command တွေကတော့ အောက်ပါအတိုင်ဖြစ်ပါတယ်။
+
+```
+cs hwllo-nesr
+yarn run start
+```
+
 ## Basic Structure of Nest JS Project
