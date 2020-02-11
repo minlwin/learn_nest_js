@@ -40,3 +40,9 @@ yarn run start
 ```
 
 ## Basic Structure of Nest JS Project
+
+
+## What we have to learn next?
+
+
+
