@@ -14,3 +14,4 @@ Learning Nest JS
 2. yarn
 3. nest-cli 
 
+[![First Nest JS Application](https://img.youtube.com/vi/v=xwIk3PYJkZg&t=4s/0.jpg)](https://www.youtube.com/watch?v=v=xwIk3PYJkZg&t=4s)
