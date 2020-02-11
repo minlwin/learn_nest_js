@@ -35,7 +35,7 @@ nest new hello-nest
 Nest JS Project ကို Create လုပ်ပြီံးတဲ့ အခါမှာ အထက်ဖေါ်ပြပါအတိုင်း Project Root Folder ထဲကို သွားပြီး ရေးထားတဲ့ Start လုပ်ပေးဖို့ပါပဲ။ အသုံးပြုရမည့် Command တွေကတော့ အောက်ပါအတိုင်ဖြစ်ပါတယ်။
 
 ```
-cs hwllo-nesr
+cs hello-nesr
 yarn run start
 ```
 
