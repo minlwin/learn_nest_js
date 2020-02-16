@@ -1,6 +1,8 @@
 # Hello Nest JS
 Learning Nest JS 
 
+![Hello NestJS](/images/nest-learn.png)
+
 ဒီနေရာမှာတော့ Nest JS Application တစ်ခုကို ဘယ်လို ရေးသားရမယ်ဆိုတာကို လေ့လာသွားကြပါမယ်။ 
 
 1. Nest JS Project တစ်ခုကို ဘယ်လိုတည်ဆောက်မလဲ
