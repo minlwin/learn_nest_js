@@ -13,10 +13,14 @@ Nest JS ဟာ Prograssive Javascript အပေါ်မှာ အခြေခ�
 2. Nest JS Project ဖွဲ့စည်းတည်ဆောက်ပုံဟာ ဘယ်လို ရှိမလဲဲ
 3. နောက်ထပ် ဘာတွေကို ဆက်ပြိးလေ့လာသွားကြမလဲ 
 
-## [About Controllers](https://github.com/minlwin/learn_nest_js/tree/master/02.controllers)
+## [Handling Request](02.controllers)
 
+## Using Database
 
+## Validate Data
 
-## References
+## Secure API
+
+# References
 
 1. [Nest JS Official Documentation](https://docs.nestjs.com/)
