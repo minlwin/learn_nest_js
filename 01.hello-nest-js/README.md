@@ -56,6 +56,8 @@ Nest CLI နဲ့ ပရိုဂျက်တစ်ခုကို တည်ဆ
 | src | အပလီကေးရှင်းထဲမှာ ရေးသားရမည့် Source Code တွေကို ဒီနေေရာမှာ ရေးသာားရမှာ ဖြစ်ပါတယ် |
 | test | Test Code တွေကို ဒီမှာ ရေးသားရမှာ ဖြစ်ပါတယ် |
 
+Nest JS ရဲ့ Project Structure နဲ့ ပတ်သက်တဲ့ Video ရှင်းလင်းချက်ကို [02  Project Structure and Next](https://www.youtube.com/watch?v=pUwgyLCZZvo&feature=youtu.be) မှာ လေ့လာနိုင်ပါတယ်။
+
 ## What we have to learn next?
 
 
