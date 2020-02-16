@@ -1,6 +1,8 @@
 # Hello Nest JS
 Learning Nest JS 
 
+![Hello NestJS](/images/nest-learn.png)
+
 ဒီနေရာမှာတော့ Nest JS Application တစ်ခုကို ဘယ်လို ရေးသားရမယ်ဆိုတာကို လေ့လာသွားကြပါမယ်။ 
 
 1. Nest JS Project တစ်ခုကို ဘယ်လိုတည်ဆောက်မလဲ
@@ -13,10 +15,6 @@ Learning Nest JS
 1. npm
 2. yarn
 3. nest-cli 
-
-အထက်ပါ Tools တွေကို Install လုပ်ပြီးတဲ့ နောက်မှာ nest cli Tools ကို အသုံးပြုပြီး Nest JS Project တစ်ခုကို တည်ဆောက်ပုံ ပြီးတော့ ရေးသားထားတဲ့ ပရိုဂျက်ကို Run ကြည့်ပုံတို့ကို အောက်ပါ Youtube Video မှာ လေ့လာနိုင်မှာ ဖြစ်ပါတယ်။
-
-[![ဘယ်လို စပြီး ပရိုဂျက်ကို တည်ဆောက်မှာလဲ](https://scontent.fmdl2-2.fna.fbcdn.net/v/t1.0-9/85181633_10221484113756427_6146191139373318144_o.jpg?_nc_cat=110&_nc_eui2=AeHQiQ6M3qpwVdKKzlLWImtIPArlMbqJwtYzvlacOZbW8Cif8sCU9df8OxxHILEQXp0IKjwyLx_vBaLHWAYCW56fWRPGmZvHRLPGZWwn6Pezvw&_nc_oc=AQkek8_IkMDaiBEfwebqlGmc_A3r-TY14yJ9a6rF4RkKWA0m5rWeRJRMtF5DZyYRdmg&_nc_ht=scontent.fmdl2-2.fna&oh=c47a037dbacae9b39bb37d9367123226&oe=5EB59E08)](https://www.youtube.com/watch?v=xwIk3PYJkZg)
 
 nest-cli ကို Install လုပ်ပြီးရင် Nest JS Project တစ်ခုကို Command နဲ့ Create လုပ်နိုင်မှာ ဖြစ်ပါတယ်။
 
