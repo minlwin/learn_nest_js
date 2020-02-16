@@ -43,6 +43,10 @@ yarn run start
 
 ## Basic Structure of Nest JS Project
 
+Nest CLI နဲ့ ပရိုဂျက်တစ်ခုကို တည်ဆောက်ပြီးပြီဆိုရင် အောက်ပါအတိုင်း File တွေ Folder တွေကို တည်ဆောက်ပေးမှာဖြစ်ပါတယ်။ 
+
+![Project Structure](/images/nest-project-structure.png)
+
 
 ## What we have to learn next?
 
