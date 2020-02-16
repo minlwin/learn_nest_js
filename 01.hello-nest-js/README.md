@@ -38,7 +38,7 @@ yarn run start
 ```
 မှန်မှန်ကန်ကန် အလုပ်လုပ်သွားတယ်ဆိုရင် အောက်ပါအတိုင်း Console မှာ ဖေါ်ပြပေးမှာ ဖြစ်ပါတယ်။ ပြီးတော့ http://localhost:3000/ မှာ အလုပ်လုပ်နေတယ်ဆိုတာကို ကြည့်ရှုနိုင်မှာ ဖြစ်ပါတယ်။ 
 
-အသေးစိတ်ကိုတော့ [Youtube Video Tutorial](https://www.youtube.com/watch?v=xwIk3PYJkZg&t=3s) မှာ လေ့လာနိုင်မှာ ဖြစ်ပါတယ်။
+အသေးစိတ်ကိုတော့ [SE01-EP01 Hello Nest](https://www.youtube.com/watch?v=xwIk3PYJkZg&t=3s) မှာ လေ့လာနိုင်မှာ ဖြစ်ပါတယ်။
 
 
 ## Basic Structure of Nest JS Project
@@ -56,7 +56,7 @@ Nest CLI နဲ့ ပရိုဂျက်တစ်ခုကို တည်ဆ
 | src | အပလီကေးရှင်းထဲမှာ ရေးသားရမည့် Source Code တွေကို ဒီနေေရာမှာ ရေးသာားရမှာ ဖြစ်ပါတယ် |
 | test | Test Code တွေကို ဒီမှာ ရေးသားရမှာ ဖြစ်ပါတယ် |
 
-Nest JS ရဲ့ Project Structure နဲ့ ပတ်သက်တဲ့ Video ရှင်းလင်းချက်ကို [02  Project Structure and Next](https://www.youtube.com/watch?v=pUwgyLCZZvo&feature=youtu.be) မှာ လေ့လာနိုင်ပါတယ်။
+Nest JS ရဲ့ Project Structure နဲ့ ပတ်သက်တဲ့ Video ရှင်းလင်းချက်ကို [SE01-EP02 roject Structure and Next](https://www.youtube.com/watch?v=pUwgyLCZZvo&feature=youtu.be) မှာ လေ့လာနိုင်ပါတယ်။
 
 ## What we have to learn next?
 
