@@ -47,6 +47,14 @@ Nest CLI နဲ့ ပရိုဂျက်တစ်ခုကို တည်ဆ
 
 ![Project Structure](/images/nest-project-structure.png)
 
+အထက်ဖေါ်ပြပါအတိုင်း Nest CLI နဲ့ Project အသစ်တစ်ခုကို တည်ဆောက်လိုက်ရင် Project အတွက် Setting Files တွေနဲ့ folder တွေကို တည်ဆောက်ပေးမှာ ဖြစ်ပါတယ်။
+
+| Folder | Description |
+| --- | --- |
+| dist | Compile လုပ်ပြီးရလာတဲ့ JS File တွေအတွက် Folder ဖြစ်ပါတယ် |
+| node_modules | Project မှာ လိုအပ်တဲ့ Node Modules Dependency တွေကို သိမ်းပေးထားမည့် Folder ဖြစ်ပါတယ်။ လိုအပ်လာလို့ Package Manager နဲ့ Install လုပ်ထားတဲ့ Dependency တွေလဲ ဒီ Folder အောက်မှာ လာပြီး သိမ်းထားပေးမှာ ဖြစ်ပါတယ် |
+| src | အပလီကေးရှင်းထဲမှာ ရေးသားရမည့် Source Code တွေကို ဒီနေေရာမှာ ရေးသာားရမှာ ဖြစ်ပါတယ် |
+| test | Test Code တွေကို ဒီမှာ ရေးသားရမှာ ဖြစ်ပါတယ် |
 
 ## What we have to learn next?
 
