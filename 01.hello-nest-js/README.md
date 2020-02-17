@@ -80,5 +80,8 @@ Dependency Injection ဟာ Component တွေရဲ့ Coupling ကို လ�
 ### Accessing Database
 Application တစ်ခုမှာ Database ဟာ မဖြစ်မနေလိုအပ်ပါတယ်။ ဒီနေရာမှာတော့ Nest JS နဲ့ Database ကိုဘယ်လို တွဲပြီးအသုံးပြုမယ်ဆိုတာကို လေ့လာသွားပါမယ်။
 
+### Data Validation
+Data Validation ကို NestJS ပတ်ဝင်းကျင်မှာ ဘယ်လို ရေးရမယ် ဆိုတာကို လေ့လာသွားပါမယ်။
+
 ### Security
 Application တစ်ခုမှာ Security ဟာ မဖြစ်မနေလိုအပ်ပါတယ်။ ဒီနေရာမှာတော့ Nest JS နဲ့ ရေးသားထားတဲ့ RESt API ကို ဘယ်လို Secure ဖြစ်အောင် ရေးသားရမလဲ ဆိုတာကို လေ့လာသွားပါမယ်။
