@@ -69,4 +69,16 @@ Hello World ကို ရေးပြီးသွားရင် ဘာဆက်
 1. Type Script ပြီးတော့ Nest JS ကို အစအဆုံး သေသေချာချာ သဘောပေါက်အောင် လေ့လာတဲ့ ပုံစံ
 2. မိမိရေးလိုတဲ့ Application တစ်ခုကို အမြန်ရေးနိုင်အောင် ဘာတွေလိုမလဲ ဆိုတာကို ရွေးပြီး လေ့လာတဲ့ ပုံစံ
 
+ဒီနေရာမှာတော့ Application တစ်ခုကို ရေးသားဖို့ ဘာတွေလိုမလဲ ဆိုတာကို ရွေးပြီး လေ့လာသွားပါမယ်။
 
+### Handling Request
+Http Request တွေကို ဘယ်လို Handle လုပ်မလဲ၊ ပြီးတော့ Request ထဲက အချက်အလက်တွေကို ဘယ်လို ထုတ်ယူမလဲ၊ Response ထဲကို Data တွေကို ဘယ်လို ပေးရမလဲ အစရှိတာတွေကို လေ့လာသွားပါမယ်။
+
+### Dependency Injection
+Dependency Injection ဟာ Component တွေရဲ့ Coupling ကို လျော့ချပေးနိုင်တဲ့ နည်းလမ်းတစ်ခုဖြစ်တယ်။ Nest Container ဟာ Dependency Injection ကို အခြေခံထားပါတယ်။ NestJS ပတ်ဝင်းကျင်မှာ Dependency Injection ကို ဘယ်လို သုံးမလဲ ဆိုတာကို လေ့လာသွားပါမယ်။
+
+### Accessing Database
+Application တစ်ခုမှာ Database ဟာ မဖြစ်မနေလိုအပ်ပါတယ်။ ဒီနေရာမှာတော့ Nest JS နဲ့ Database ကိုဘယ်လို တွဲပြီးအသုံးပြုမယ်ဆိုတာကို လေ့လာသွားပါမယ်။
+
+### Security
+Application တစ်ခုမှာ Security ဟာ မဖြစ်မနေလိုအပ်ပါတယ်။ ဒီနေရာမှာတော့ Nest JS နဲ့ ရေးသားထားတဲ့ RESt API ကို ဘယ်လို Secure ဖြစ်အောင် ရေးသားရမလဲ ဆိုတာကို လေ့လာသွားပါမယ်။
