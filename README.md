@@ -15,9 +15,11 @@ Nest JS ဟာ Prograssive Javascript အပေါ်မှာ အခြေခ�
 
 ## [Handling Request](02.controllers)
 
+## Dependency Injection
+
 ## Using Database
 
-## Validate Data
+## Data Validation
 
 ## Secure API
 
