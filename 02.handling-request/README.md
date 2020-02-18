@@ -84,8 +84,22 @@ Nest Container ရဲ့ Routing Mechanism ဟာ HTTP Request Protocol ရဲ�
 
 | Decorator | Arguments | Description |
 | --- | --- | --- |
-| @Controller() | No Argument | Application Root Path နဲ့ Map လုပ်ပေးပါမယ် |
-| @Controller(prefix:string) | 'hello' | prefix ရဲ့ Value ကို 'hello' လို့သတ်မှတ်ထားရင် '/hello' နဲ့ Map လုပ်ပေးပါမယ် |
-| @Controller(options: ControllerOptions) | {path : '/hello' , host : 'admin.jdc.com'} | Host နဲ့ Path ကို သတ်မှတ်လိုတဲ့ အခါမျိုးမှာ အသုံးပြုနိုင်ပါတယ်။ |
+| @Controller | No Argument | Application Root Path နဲ့ Map လုပ်ပေးပါမယ် |
+| @Controller | 'hello' | prefix ရဲ့ Value ကို 'hello' လို့သတ်မှတ်ထားရင် '/hello' နဲ့ Map လုပ်ပေးပါမယ် |
+| @Controller | {path : '/hello' , host : 'admin.jdc.com'} | Host နဲ့ Path ကို သတ်မှတ်လိုတဲ့ အခါမျိုးမှာ အသုံးပြုနိုင်ပါတယ်။ |
+
+### Method Level Decorator
+
+| Decorator | Arguments | Description |
+| --- | --- | --- |
+| Get() | string or string[] | GET Http Request Method နဲ့လာတဲ့ Request တွေနဲ့ Map လုပ်ပေးပါတယ် |
+| Post() | string or string[] | POST Http Request Method နဲ့လာတဲ့ Request တွေနဲ့ Map လုပ်ပေးပါတယ် |
+| Put() | string or string[] | PUt Http Request Method နဲ့လာတဲ့ Request တွေနဲ့ Map လုပ်ပေးပါတယ် |
+| Delete() | string or string[] | DELETE Http Request Method နဲ့လာတဲ့ Request တွေနဲ့ Map လုပ်ပေးပါတယ် |
+| Head() | string or string[] | HEAD Http Request Method နဲ့လာတဲ့ Request တွေနဲ့ Map လုပ်ပေးပါတယ် |
+| Patch() | string or string[] | PATCH Http Request Method နဲ့လာတဲ့ Request တွေနဲ့ Map လုပ်ပေးပါတယ် |
+| Options() | string or string[] | OPTIONS Http Request Method နဲ့လာတဲ့ Request တွေနဲ့ Map လုပ်ပေးပါတယ် |
+| All() | string or string[] | Http Request Method အားလုံးနဲ့ Map လုပ်ပေးပါတယ် |
+
 
 
