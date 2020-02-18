@@ -13,7 +13,14 @@ Nest JS ဟာ Prograssive Javascript အပေါ်မှာ အခြေခ�
 2. Nest JS Project ဖွဲ့စည်းတည်ဆောက်ပုံဟာ ဘယ်လို ရှိမလဲဲ
 3. နောက်ထပ် ဘာတွေကို ဆက်ပြိးလေ့လာသွားကြမလဲ 
 
-## [Handling Request](02.controllers)
+## [Handling Request](02.handling-request)
+
+NestJS Framework မှာ HTTP Request တွေကို Handle လုပ်ဖို့ Controller တွေကို အသုံးပြုပါတယ်။ ဒီနေရာမှာတော့ အောက်ပါအချက်တွေကို အဓိကထားပြီး လေ့လာသွားပါမယ်။
+
+1. Controller ဆိုတာဘာလဲ
+2. Request တွေနဲဲ့ Controller Method တွေကို ဘယ်လို Map လုပ်တာလဲ
+3. Client ဆီကနေ ပေးလာတဲ့ Information တွေကို ဘယ်လို ရယူနိုင်သလဲ
+4. ဘာတွေကို Response လုပ်နိုင်သလဲ
 
 ## Dependency Injection
 
