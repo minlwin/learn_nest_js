@@ -74,3 +74,18 @@ export class AppModule {}
 ```
 
 [Nest CLI Command Reference](https://docs.nestjs.com/cli/usages) မှာ CLI ရဲ့ အသုံးပြုပုံ အသေးစိတ်ကို လေ့လာနိုင်ပါတယ်။
+
+
+## Request Mapping
+
+Nest Container ရဲ့ Routing Mechanism ဟာ HTTP Request Protocol ရဲ့ URL နဲ့ Request Method ကို အသုံးပြုပြီး Invoke လုပ်ရမည့် Controller Method ကို ရှာဖွေပါတယ်။ ဒါ့ကြောင့် Controller တွေကို ရေးသားတဲ့ နေရာမှာ Method တစ်ခုဟာ ဘယ်လို URL ရဲ့ ဘယ်လို Request Method အတွက်လဲ ဆိုတာကို Decorator တွေကို အသုံးပြုပြီး Map လုပ်ပေးထားဖို့လိုအပ်ပါတယ်။
+
+### Class Level Decorators
+
+| Decorator | Arguments | Description |
+| --- | --- | --- |
+| @Controller() | No Argument | Application Root Path နဲ့ Map လုပ်ပေးပါမယ် |
+| @Controller(prefix:string) | 'hello' | prefix ရဲ့ Value ကို 'hello' လို့သတ်မှတ်ထားရင် '/hello' နဲ့ Map လုပ်ပေးပါမယ် |
+| @Controller(options: ControllerOptions) | {path : '/hello' , host : 'admin.jdc.com'} | Host နဲ့ Path ကို သတ်မှတ်လိုတဲ့ အခါမျိုးမှာ အသုံးပြုနိုင်ပါတယ်။ |
+
+
