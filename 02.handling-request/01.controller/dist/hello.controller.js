@@ -5,23 +5,24 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
-const hello_controller_1 = require("./hello.controller");
-const app_controller_1 = require("./app.controller");
-const hello2_controller_1 = require("./hello2.controller");
-let AppModule = class AppModule {
+let Hello = class Hello {
+    index() {
+        return "Hello Plain Controller";
+    }
 };
-AppModule = __decorate([
-    common_1.Module({
-        imports: [],
-        controllers: [
-            app_controller_1.AppController,
-            hello_controller_1.Hello,
-            hello2_controller_1.Hello2Controller
-        ],
-        providers: [],
-    })
-], AppModule);
-exports.AppModule = AppModule;
-//# sourceMappingURL=app.module.js.map
+__decorate([
+    common_1.Get(),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", []),
+    __metadata("design:returntype", void 0)
+], Hello.prototype, "index", null);
+Hello = __decorate([
+    common_1.Controller('hello')
+], Hello);
+exports.Hello = Hello;
+//# sourceMappingURL=hello.controller.js.map
