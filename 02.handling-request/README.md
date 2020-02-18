@@ -45,3 +45,11 @@ Controller ကိုအသုံးပြုမည့် Module ထဲမှာ 
 
 ### How To Create A Controller
 
+Controller ကို တည်ဆောက်တဲ့ နေရာမှာ အထက်ပါအတိုင်း Controller Class ကို Create လုပ်ပြီးတော့ Module ထဲမှာ Define လုပ်ပြီး ရေးသားနိုင်ပါတယ်။ တဖန် Nest CLI Tools ကို Install လုပ်ထားတယ်ဆိုရင် generate Command ကိုအသုံးပြုပြီးလဲ တည်ဆောက်နိုင်ပါတယ်။
+
+```shell
+$ nest generate controller hello
+$ nest g controller hello
+$ nest g co hello
+```
+
