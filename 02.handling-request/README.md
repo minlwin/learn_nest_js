@@ -53,3 +53,24 @@ $ nest g controller hello
 $ nest g co hello
 ```
 
+အထက်ပါ Command တစ်ခုခုကို Run ပြီး Hello Controller ကိုတည်ဆောက်နိုင်ပါတယ်။ 
+
+#### Hello Controller Class
+```typescript
+@Controller('hello')
+export class HelloController {
+    
+}
+```
+
+#### App Module
+```typescript
+@Module({
+  imports: [],
+  controllers: [AppController, HelloController],
+  providers: [],
+})
+export class AppModule {}
+```
+
+[Nest CLI Command Reference](https://docs.nestjs.com/cli/usages) မှာ CLI ရဲ့ အသုံးပြုပုံ အသေးစိတ်ကို လေ့လာနိုင်ပါတယ်။
