@@ -17,3 +17,31 @@ Controller ဆိုတာက NestJS ရဲ့ အခြေခံ Component တ�
 Handle လုပ်မည့် Controller Method ကို တွေ့ပြီဆိုတာနဲ့ အဲ့ဒီ Method ကို Invoke လုပ်ပါတယ်။ တဖန် အဲ့ဒီ Method ကို Invoke လုပ်ပြီး ရလာတဲ့ Result Object ကိို အသုံးပြုပြီး HTTP Response ကို Client ဆီကို ပြန်ပေးပါတယ်။
 
 တကယ်လို့ Handle လုပ်မည့် Controller Method ကို မတွေ့ပါက HTTP Status 404 နဲ့ Error Object ကို Response လုပ်မှာ ဖြစ်ပါတယ်။
+
+### Basic Structure of A Controller
+
+```typescript
+@Controller()
+export class AppController {
+
+  @Get()
+  getHello(): string {
+    return "Hello World";
+  }
+}
+```
+Controller တစ်ခုကို ရေးသားမယ်ဆိုရင် @Controller() Decorator ကိုအသုံးပြုရေးသားရန်လိုအပ်ပါတယ်။ Controller ထဲမှာလဲ Request Method အလိုက် Handle လုပ်စေလိုတဲ့ Method တွေကို ရေးသားထားနိုင်ပါတယ်။
+
+```typescript
+@Module({
+  imports: [],
+  controllers: [AppController],
+  providers: [],
+})
+export class AppModule {}
+```
+Controller ကိုအသုံးပြုမည့် Module ထဲမှာ controllers အနေနဲ့ သတ်မှတ်ထားဖို့လိုအပ်ပါတယ်။
+
+
+### How To Create A Controller
+
