@@ -18,6 +18,8 @@ Handle လုပ်မည့် Controller Method ကို တွေ့ပြ�
 
 ![Controller](https://github.com/minlwin/the-restaurant/raw/master/images/type2mvc.png)
 
+Video Tutorial ကိုတော့[SE02-EP01 About Controller](https://www.youtube.com/watch?v=B7RUXUK7-aY&t=29s) မှာလေ့လာနိုင်မှာ ဖြစ်ပါတယ်။
+
 ### Basic Structure of A Controller
 
 ```typescript
@@ -75,6 +77,7 @@ export class AppModule {}
 
 [Nest CLI Command Reference](https://docs.nestjs.com/cli/usages) မှာ CLI ရဲ့ အသုံးပြုပုံ အသေးစိတ်ကို လေ့လာနိုင်ပါတယ်။
 
+Video Tutorial ကိုတော့[SE02-EP02 How to Create A Controller](https://www.youtube.com/watch?v=EIAq-UoAkOY) မှာလေ့လာနိုင်မှာ ဖြစ်ပါတယ်။
 
 ## Request Mapping
 
