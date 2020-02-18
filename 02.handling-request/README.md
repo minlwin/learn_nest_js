@@ -10,13 +10,13 @@ NestJS Framework ဟာ HTTP Request တွေကို Handle လုပ်ဖ�
 
 ## Controller ဆိုတာဘာလဲ
 
-![Controller](https://github.com/minlwin/the-restaurant/raw/master/images/type2mvc.png)
-
 Controller ဆိုတာက NestJS ရဲ့ အခြေခံ Component တစ်မျိုးဖြစ်ပြီး၊ Request တွေကို Handle လုပ်ပြီး Response တွေကို တည်ဆောက်ပေးဖို့အတွက် တာဝန်ရှိပါတယ်။ Client ဆီကနေ ရောက်လာတဲ့ HTTP Request တွေဟာ Nest Container ဆီကို ရောက်လာပြီဆိုတာနဲ့ Nest ရဲ့ Routing Mechanism ကနေ HTTP Protocol ရဲ့ URL Path နဲ့ Request Method ကိုကြည့်ပြီး ဘယ် Controller ရဲ့ ဘယ် Method ကို Invoke လုပ်ရမယ်ဆိုတာကို ဆုံးဖြတ်ပါတယ်။
 
 Handle လုပ်မည့် Controller Method ကို တွေ့ပြီဆိုတာနဲ့ အဲ့ဒီ Method ကို Invoke လုပ်ပါတယ်။ တဖန် အဲ့ဒီ Method ကို Invoke လုပ်ပြီး ရလာတဲ့ Result Object ကိို အသုံးပြုပြီး HTTP Response ကို Client ဆီကို ပြန်ပေးပါတယ်။
 
 တကယ်လို့ Handle လုပ်မည့် Controller Method ကို မတွေ့ပါက HTTP Status 404 နဲ့ Error Object ကို Response လုပ်မှာ ဖြစ်ပါတယ်။
+
+![Controller](https://github.com/minlwin/the-restaurant/raw/master/images/type2mvc.png)
 
 ### Basic Structure of A Controller
 
