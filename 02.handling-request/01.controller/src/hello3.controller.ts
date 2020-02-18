@@ -1,4 +1,10 @@
-import { Controller } from '@nestjs/common';
+import { Controller, Get } from '@nestjs/common';
 
-@Controller()
-export class Hello3Controller {}
+@Controller('hello3')
+export class Hello3Controller {
+
+    @Get()
+    index() {
+        return 'Hello from VS Code Plugin'
+    }
+}
